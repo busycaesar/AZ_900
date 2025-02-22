@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains notes for the preparation of AZ 900. Check out the website az900.shahtech.info.
+This repository contains notes for the preparation of AZ 900. Check out the [website](https://az900.shahtech.info).
 
 ## Author
 
